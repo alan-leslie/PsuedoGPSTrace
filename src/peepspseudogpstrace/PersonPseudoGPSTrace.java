@@ -17,6 +17,7 @@ import java.util.logging.Logger;
  * @author al
  */
 public class PersonPseudoGPSTrace {
+
     String theName;
     private String theDOB;
     private String theDOD;
@@ -57,18 +58,18 @@ public class PersonPseudoGPSTrace {
     public URL getTheURL() {
         return theURL;
     }
-    
-    PersonPseudoGPSTrace(String[] theData){
+
+    PersonPseudoGPSTrace(String[] theData) {
         theName = theData[0];
         try {
             theURL = new URL(theData[1]);
         } catch (MalformedURLException ex) {
             Logger.getLogger(PersonPseudoGPSTrace.class.getName()).log(Level.SEVERE, null, ex);
         }
-        
-        int noOfTransitions = (theData.length - 3)/3; // drop out the name, url and DOD
-        
-        for(int i = 0; i < noOfTransitions; ++i){
+
+        int noOfTransitions = (theData.length - 3) / 3; // drop out the name, url and DOD
+
+        for (int i = 0; i < noOfTransitions; ++i) {
             int startIndex = (i * 3) + 2;
             String startDate = theData[startIndex];
             String locationName = theData[startIndex + 1];
@@ -76,111 +77,116 @@ public class PersonPseudoGPSTrace {
             String endDate = theData[startIndex + 3];
             String periodString = startDate + " to " + endDate;
             String[] splitCoords = coords.split(",");
-            
+
             Period theLifetimePeriod = Period.getRealPeriod(periodString);
             Position theLifetimePosition = new Position(splitCoords[0], splitCoords[1]);
 
-            if(i == 0){
+            if (i == 0) {
                 theLifePlace = theLifetimePosition;
             }
-            
+
             PlacePeriod theLifetimePlace = new PlacePeriod(theLifetimePosition, locationName, theLifetimePeriod);
-            
+
             theLifetime.add(theLifetimePlace);
         }
-        
+
         theDOB = theData[2];
-        theDOD = theData[theData.length -1];   
-        
+        theDOD = theData[theData.length - 1];
+
         theLifePeriod = Period.getRealPeriod(theDOB + " to " + theDOD);
     }
-    
+
     /**
      * Output the placemark data in different xml formats.
      * @param ps - the stream to where the data is written
      */
     public void outputAsTimelineKML(PrintStream ps) {
-            ps.print("<Placemark>");
-            ps.println();
-            ps.print("<name>");
-            ps.println();
-            ps.print(theName);
-            ps.println();
-            ps.print("</name>");
-            ps.println();
-            ps.print("<description>");
-            ps.println();
+        ps.print("<Placemark>");
+        ps.println();
+        ps.print("<name>");
+        ps.println();
+        ps.print(theName);
+        ps.println();
+        ps.print("</name>");
+        ps.println();
+        ps.print("<description>");
+        ps.println();
 
-            if (theURL != null) {
-                ps.print("&lt;p&gt;");
-                ps.println();
-                ps.print("&lt;a href=\"");
-                ps.print(theURL);
-                ps.print("\"&gt; more info&gt;&gt;&gt;");
-                ps.print("&lt;/a&gt;");
-                ps.println();
-                ps.print("&lt;/p&gt;");
-                ps.println();
-            }
-
-            ps.print("</description>");
+        if (theURL != null) {
+            ps.print("&lt;p&gt;");
             ps.println();
-
-            if (theLifePeriod.hasDuration()) {
-                ps.print("<TimeSpan>");
-                ps.print("<begin>");
-                ps.print(theLifePeriod.getStartDate().toString());
-                ps.print("</begin>");
-                ps.print("<end>");
-                ps.print(theLifePeriod.getEndDate().toString());
-                ps.print("</end>");
-                ps.print("</TimeSpan>");
-                ps.println();
-            } else {
-                ps.print("<TimeStamp>");
-                ps.print("<when>");
-                ps.print(theLifePeriod.getStartDate().toString());
-                ps.print("</when>");
-                ps.print("</TimeStamp>");
-                ps.println();
-            }
-
-            ps.print("<ExtendedData>");
-            ps.println("<Data name=\"DateString\">");
-            ps.print("<value>");
-            ps.print(theLifePeriod.asLongString());
-            ps.print("</value>");
-            ps.println();
-            ps.println("</Data>");
-            ps.println("<Data name=\"Url\">");
-            ps.print("<value>");
+            ps.print("&lt;a href=\"");
             ps.print(theURL);
-            ps.print("</value>");
+            ps.print("\"&gt; more info&gt;&gt;&gt;");
+            ps.print("&lt;/a&gt;");
             ps.println();
-            ps.println("</Data>");
-            ps.print("</ExtendedData>");
+            ps.print("&lt;/p&gt;");
             ps.println();
+        }
 
-            ps.print("<Point>");
+        ps.print("</description>");
+        ps.println();
+
+        if (theLifePeriod.hasDuration()) {
+            ps.print("<TimeSpan>");
+            ps.print("<begin>");
+            ps.print(theLifePeriod.getStartDate().toString());
+            ps.print("</begin>");
+            ps.print("<end>");
+            ps.print(theLifePeriod.getEndDate().toString());
+            ps.print("</end>");
+            ps.print("</TimeSpan>");
             ps.println();
-            ps.print("<coordinates>");
-            ps.print(theLifePlace.getLongitude());
-            ps.print(",");
-            ps.print(theLifePlace.getLatitude());
-            ps.print("</coordinates>");
+        } else {
+            ps.print("<TimeStamp>");
+            ps.print("<when>");
+            ps.print(theLifePeriod.getStartDate().toString());
+            ps.print("</when>");
+            ps.print("</TimeStamp>");
             ps.println();
-            ps.print("</Point>");
-            ps.println();
-            ps.print("</Placemark>");
-            ps.println();
-    }    
+        }
+
+        ps.print("<ExtendedData>");
+        ps.println("<Data name=\"DateString\">");
+        ps.print("<value>");
+        ps.print(theLifePeriod.asLongString());
+        ps.print("</value>");
+        ps.println();
+        ps.println("</Data>");
+        ps.println("<Data name=\"Url\">");
+        ps.print("<value>");
+        ps.print(theURL);
+        ps.print("</value>");
+        ps.println();
+        ps.println("</Data>");
+        ps.print("</ExtendedData>");
+        ps.println();
+
+        ps.print("<Point>");
+        ps.println();
+        ps.print("<coordinates>");
+        ps.print(theLifePlace.getLongitude());
+        ps.print(",");
+        ps.print(theLifePlace.getLatitude());
+        ps.print("</coordinates>");
+        ps.println();
+        ps.print("</Point>");
+        ps.println();
+        ps.print("</Placemark>");
+        ps.println();
+    }
     
-        /**
+    public void outputAsMapKML(PrintStream ps) {
+        outputTransitionsAsKML(ps);
+        outputPlaceMarksAsKML(ps);
+    }
+
+    /**
      * Output the placemark data in different xml formats.
      * @param ps - the stream to where the data is written
      */
-    public void outputAsMapKML(PrintStream ps) {
-        for(PlacePeriod thePlacePeriod: theLifetime){
+    public void outputPlaceMarksAsKML(PrintStream ps) {
+        for (PlacePeriod thePlacePeriod : theLifetime) {
             ps.print("<Placemark>");
             ps.println();
             ps.print("<name>");
@@ -208,7 +214,7 @@ public class PersonPseudoGPSTrace {
             ps.println();
 
             Period thePeriod = thePlacePeriod.getThePeriod();
-            
+
             if (thePeriod.hasDuration()) {
                 ps.print("<TimeSpan>");
                 ps.print("<begin>");
@@ -258,6 +264,66 @@ public class PersonPseudoGPSTrace {
             ps.println();
             ps.print("</Placemark>");
             ps.println();
-    }   
+        }
+    }
+
+    /**
+     * Output the placemark data in different xml formats.
+     * @param ps - the stream to where the data is written
+     */
+    public void outputTransitionsAsKML(PrintStream ps) {
+        for (int i = 0; i < theLifetime.size() -1; ++i) {
+            PlacePeriod thisPlacePeriod = theLifetime.get(i);
+            PlacePeriod nextPlacePeriod = theLifetime.get(i + 1);
+            
+            ps.print("<Placemark>");
+            ps.println();
+            ps.print("<name>");
+            ps.println();
+            ps.print(theName);
+            ps.println();
+            ps.print("</name>");
+            ps.println();
+            ps.print("<description>");
+            ps.println();
+            ps.print("</description>");
+            ps.println();
+
+            Period thePeriod = thisPlacePeriod.getThePeriod();
+
+            ps.print("<TimeStamp>");
+            ps.print("<when>");
+            ps.print(thePeriod.getStartDate().toString());
+            ps.print("</when>");
+            ps.print("</TimeStamp>");
+            ps.println();           
+
+            Position thePosition = thisPlacePeriod.getThePosition();
+            Position nextPosition = nextPlacePeriod.getThePosition();
+            
+            ps.print("<LineString>");
+            ps.println();
+            ps.print("<tessellate>1</tessellate>");
+            ps.println();            
+            ps.print("<altitudeMode>clampToGround</altitudeMode>");
+            ps.println();
+            ps.print("<coordinates>");
+            ps.print(thePosition.getLongitude());
+            ps.print(",");
+            ps.print(thePosition.getLatitude());
+            ps.print(",0");
+            ps.println();
+            ps.print(nextPosition.getLongitude());
+            ps.print(",");
+            ps.print(nextPosition.getLatitude());
+            ps.print(",0");
+            ps.println();
+            ps.print("</coordinates>");
+            ps.println();
+            ps.print("</LineString>");
+            ps.println();
+            ps.print("</Placemark>");
+            ps.println();
+        }
     }
 }
