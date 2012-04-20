@@ -79,7 +79,7 @@ public class PersonPseudoGPSTrace {
             String[] splitCoords = coords.split(",");
 
             Period theLifetimePeriod = Period.getRealPeriod(periodString);
-            Position theLifetimePosition = new Position(splitCoords[0], splitCoords[1]);
+            Position theLifetimePosition = new Position(splitCoords[0].trim(), splitCoords[1].trim());
 
             if (i == 0) {
                 theLifePlace = theLifetimePosition;
@@ -273,15 +273,41 @@ public class PersonPseudoGPSTrace {
         }
     }
 
+    public List<String[]> getTransitions() {
+        List<String[]> retVal = new ArrayList<String[]>();
+
+        for (int i = 1; i < theLifetime.size(); ++i) {
+            String[] theTransition = new String[3];
+
+            PlacePeriod prev = theLifetime.get(i - 1);
+            PlacePeriod curr = theLifetime.get(i);
+
+            String thePeriodString = curr.getThePeriod().getStartDate().toString();
+
+            Position prevPosition = prev.getThePosition();
+            Position currPosition = curr.getThePosition();
+
+            String prevPosStr = prevPosition.getLongitude() + "," + prevPosition.getLatitude();
+            String currPosStr = currPosition.getLongitude() + "," + currPosition.getLatitude();
+
+            theTransition[0] = thePeriodString;
+            theTransition[1] = prevPosStr;
+            theTransition[2] = currPosStr;
+
+            retVal.add(theTransition);
+        }
+
+        return retVal;
+    }
+
     /**
      * Output the placemark data in different xml formats.
      * @param ps - the stream to where the data is written
      */
     public void outputTransitionsAsKML(PrintStream ps) {
-        for (int i = 0; i < theLifetime.size() - 1; ++i) {
-            PlacePeriod thisPlacePeriod = theLifetime.get(i);
-            PlacePeriod nextPlacePeriod = theLifetime.get(i + 1);
+        List<String[]> theTransitions = getTransitions();
 
+        for (String[] theTransition : theTransitions) {
             ps.print("<Placemark>");
             ps.println();
             ps.print("<name>");
@@ -295,17 +321,12 @@ public class PersonPseudoGPSTrace {
             ps.print("</description>");
             ps.println();
 
-            Period thePeriod = thisPlacePeriod.getThePeriod();
-
             ps.print("<TimeStamp>");
             ps.print("<when>");
-            ps.print(thePeriod.getStartDate().toString());
+            ps.print(theTransition[0]);
             ps.print("</when>");
             ps.print("</TimeStamp>");
             ps.println();
-
-            Position thePosition = thisPlacePeriod.getThePosition();
-            Position nextPosition = nextPlacePeriod.getThePosition();
 
             ps.print("<LineString>");
             ps.println();
@@ -314,14 +335,10 @@ public class PersonPseudoGPSTrace {
             ps.print("<altitudeMode>clampToGround</altitudeMode>");
             ps.println();
             ps.print("<coordinates>");
-            ps.print(thePosition.getLongitude());
-            ps.print(",");
-            ps.print(thePosition.getLatitude());
+            ps.print(theTransition[1]);
             ps.print(",0");
             ps.println();
-            ps.print(nextPosition.getLongitude());
-            ps.print(",");
-            ps.print(nextPosition.getLatitude());
+            ps.print(theTransition[2]);
             ps.print(",0");
             ps.println();
             ps.print("</coordinates>");
