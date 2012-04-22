@@ -146,6 +146,17 @@ public class PersonPseudoGPSTrace {
             ps.println();
         }
 
+        ps.print("<Point>");
+        ps.println();
+        ps.print("<coordinates>");
+        ps.print(theLifePlace.getLongitude());
+        ps.print(",");
+        ps.print(theLifePlace.getLatitude());
+        ps.print("</coordinates>");
+        ps.println();
+        ps.print("</Point>");
+        ps.println();
+
         ps.print("<ExtendedData>");
         ps.println("<Data name=\"DateString\">");
         ps.print("<value>");
@@ -159,19 +170,14 @@ public class PersonPseudoGPSTrace {
         ps.print("</value>");
         ps.println();
         ps.println("</Data>");
+        ps.print("<Data name=\"theme\">");
+        ps.print("<value>");
+        ps.print(theName.replaceAll(" ", ""));
+        ps.print("</value>");
+        ps.println("</Data>");
         ps.print("</ExtendedData>");
         ps.println();
 
-        ps.print("<Point>");
-        ps.println();
-        ps.print("<coordinates>");
-        ps.print(theLifePlace.getLongitude());
-        ps.print(",");
-        ps.print(theLifePlace.getLatitude());
-        ps.print("</coordinates>");
-        ps.println();
-        ps.print("</Point>");
-        ps.println();
         ps.print("</Placemark>");
         ps.println();
     }
@@ -234,6 +240,18 @@ public class PersonPseudoGPSTrace {
                 ps.println();
             }
 
+            Position thePosition = thePlacePeriod.getThePosition();
+            ps.print("<Point>");
+            ps.println();
+            ps.print("<coordinates>");
+            ps.print(thePosition.getLongitude());
+            ps.print(",");
+            ps.print(thePosition.getLatitude());
+            ps.print("</coordinates>");
+            ps.println();
+            ps.print("</Point>");
+            ps.println();
+
             ps.print("<ExtendedData>");
             ps.println();
             ps.println("<Data name=\"DateString\">");
@@ -254,20 +272,14 @@ public class PersonPseudoGPSTrace {
             ps.print("</value>");
             ps.println();
             ps.println("</Data>");
+            ps.print("<Data name=\"theme\">");
+            ps.print("<value>");
+            ps.print(theName.replaceAll(" ", ""));
+            ps.print("</value>");
+            ps.println("</Data>");
             ps.print("</ExtendedData>");
-            ps.println();
+                        ps.println();
 
-            Position thePosition = thePlacePeriod.getThePosition();
-            ps.print("<Point>");
-            ps.println();
-            ps.print("<coordinates>");
-            ps.print(thePosition.getLongitude());
-            ps.print(",");
-            ps.print(thePosition.getLatitude());
-            ps.print("</coordinates>");
-            ps.println();
-            ps.print("</Point>");
-            ps.println();
             ps.print("</Placemark>");
             ps.println();
         }
@@ -345,6 +357,15 @@ public class PersonPseudoGPSTrace {
             ps.println();
             ps.print("</LineString>");
             ps.println();
+            ps.print("<ExtendedData>");
+            ps.println();
+            ps.print("<Data name=\"theme\">");
+            ps.print("<value>");
+            ps.print(theName.replaceAll(" ", ""));
+            ps.print("</value>");
+            ps.println("</Data>");
+            ps.print("</ExtendedData>");
+                        ps.println();
             ps.print("</Placemark>");
             ps.println();
         }

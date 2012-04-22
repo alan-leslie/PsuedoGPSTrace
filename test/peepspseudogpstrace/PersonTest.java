@@ -65,8 +65,8 @@ public class PersonTest {
             String[] theTransition = theTransitions.get(4);
             
             assert(theTransition[0].equalsIgnoreCase("Thu Jan 01 00:00:00 GMT 1609"));
-            assert(theTransition[1].equalsIgnoreCase("45.160526,10.796249"));
-            assert(theTransition[2].equalsIgnoreCase("51.217153,4.40914"));
+            assert(theTransition[1].equalsIgnoreCase("10.796249,45.160526"));
+            assert(theTransition[2].equalsIgnoreCase("4.40914,51.217153"));
 
             PlacePeriod firstPeriod = theLifetime.get(0);
             PlacePeriod lastPeriod = theLifetime.get(theLifetime.size() - 1);
@@ -116,8 +116,8 @@ public class PersonTest {
             String[] theTransition = theTransitions.get(0);
             
             assert(theTransition[0].equalsIgnoreCase("Wed Jun 01 00:00:00 GMT 1622"));
-            assert(theTransition[1].equalsIgnoreCase("37.377222,-5.986944"));
-            assert(theTransition[2].equalsIgnoreCase("40.4,-3.683333"));
+            assert(theTransition[1].equalsIgnoreCase("-5.986944,37.377222"));
+            assert(theTransition[2].equalsIgnoreCase("-3.683333,40.4"));
                         
             PlacePeriod firstPeriod = theLifetime.get(0);
             PlacePeriod lastPeriod = theLifetime.get(theLifetime.size() - 1);
