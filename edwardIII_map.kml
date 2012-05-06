@@ -1,0 +1,3155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Thu Jul 16 00:00:00 GMT 1338</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>-0.1275,51.507222,0
+1.155556,52.059444,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Wed Jul 22 00:00:00 GMT 1338</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>1.155556,52.059444,0
+4.4,51.216667,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Sat Aug 15 00:00:00 GMT 1338</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>4.4,51.216667,0
+4.466667,51.016667,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Sun Aug 30 00:00:00 GMT 1338</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>4.466667,51.016667,0
+7.611667,50.395556,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Sat Sep 05 00:00:00 GMT 1338</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>7.611667,50.395556,0
+7.597778,50.359722,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Fri Sep 18 00:00:00 GMT 1338</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>7.597778,50.359722,0
+4.4,51.216667,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Mon Oct 12 00:00:00 GMT 1338</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>4.4,51.216667,0
+5.166667,50.933333,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Mon Oct 26 00:00:00 GMT 1338</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>5.166667,50.933333,0
+4.466667,51.016667,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Sun Jun 20 00:00:00 GMT 1339</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>4.466667,51.016667,0
+4.416667,50.933333,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Fri Aug 20 00:00:00 GMT 1339</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>4.416667,50.933333,0
+4.35,50.85,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Mon Sep 13 00:00:00 GMT 1339</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>4.35,50.85,0
+3.95,50.45,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Sat Sep 18 00:00:00 GMT 1339</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>3.95,50.45,0
+3.5233,50.3581,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Mon Sep 20 00:00:00 GMT 1339</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>3.5233,50.3581,0
+3.2356,50.1767,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Sun Oct 10 00:00:00 GMT 1339</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>3.2356,50.1767,0
+3.1964,50.0375,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Thu Oct 14 00:00:00 GMT 1339</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>3.1964,50.0375,0
+2.935,49.9293,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Thu Oct 21 00:00:00 GMT 1339</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>2.935,49.9293,0
+3.9172,49.9781,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Thu Oct 28 00:00:00 GMT 1339</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>3.9172,49.9781,0
+4.35,50.85,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Fri Nov 12 00:00:00 GMT 1339</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>4.35,50.85,0
+4.4,51.216667,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Sat Jan 22 00:00:00 GMT 1340</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>4.4,51.216667,0
+3.733333,51.05,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Mon Feb 21 00:00:00 GMT 1340</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>3.733333,51.05,0
+3.5,51.35,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Tue Feb 22 00:00:00 GMT 1340</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>3.5,51.35,0
+1.2625,51.9355,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Fri Feb 25 00:00:00 GMT 1340</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>1.2625,51.9355,0
+-0.1275,51.507222,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Sun Jun 04 00:00:00 GMT 1340</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>-0.1275,51.507222,0
+1.155556,52.059444,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Thu Jun 22 00:00:00 GMT 1340</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>1.155556,52.059444,0
+1.2625,51.9355,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Sun Jun 25 00:00:00 GMT 1340</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>1.2625,51.9355,0
+3.233333,51.216667,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Sat Jul 08 00:00:00 GMT 1340</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>3.233333,51.216667,0
+3.733333,51.05,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Tue Jul 18 00:00:00 GMT 1340</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>3.733333,51.05,0
+3.337584,50.651093,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Mon Jul 31 00:00:00 GMT 1340</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>3.337584,50.651093,0
+3.383333,50.6,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Thu Sep 28 00:00:00 GMT 1340</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>3.383333,50.6,0
+3.733333,51.05,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Tue Nov 28 00:00:00 GMT 1340</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>3.733333,51.05,0
+3.5,51.35,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Thu Nov 30 00:00:00 GMT 1340</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>3.5,51.35,0
+-0.1275,51.507222,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Fri Oct 04 00:00:00 GMT 1342</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>-0.1275,51.507222,0
+1.338889,51.274722,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Sat Oct 26 00:00:00 GMT 1342</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>1.338889,51.274722,0
+-3,48,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Fri Nov 22 00:00:00 GMT 1342</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>-3,48,0
+-2.7603,47.6559,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Sun Jun 01 00:00:00 GMT 1343</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>-2.7603,47.6559,0
+-0.1275,51.507222,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Tue Jul 05 00:00:00 GMT 1345</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>-0.1275,51.507222,0
+3.5,51.35,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Tue Jul 26 00:00:00 GMT 1345</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>3.5,51.35,0
+-0.1275,51.507222,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Wed Jul 05 00:00:00 GMT 1346</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>-0.1275,51.507222,0
+-1.396991,50.901418,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Wed Jul 12 00:00:00 GMT 1346</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>-1.396991,50.901418,0
+-1.2661,49.5886,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Tue Jul 18 00:00:00 GMT 1346</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>-1.2661,49.5886,0
+-1.4667,49.5167,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Thu Jul 20 00:00:00 GMT 1346</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>-1.4667,49.5167,0
+-1.2477,49.3032,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Sat Jul 22 00:00:00 GMT 1346</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>-1.2477,49.3032,0
+-1.0903,49.1153,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Tue Jul 25 00:00:00 GMT 1346</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>-1.0903,49.1153,0
+-0.3694,49.1831,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Wed Aug 02 00:00:00 GMT 1346</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>-0.3694,49.1831,0
+0.2267,49.1464,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Wed Aug 09 00:00:00 GMT 1346</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>0.2267,49.1464,0
+1.4858,49.0925,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Sun Aug 13 00:00:00 GMT 1346</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>1.4858,49.0925,0
+2.0456,48.9294,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Mon Aug 21 00:00:00 GMT 1346</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>2.0456,48.9294,0
+1.9442,49.9658,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Thu Aug 24 00:00:00 GMT 1346</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>1.9442,49.9658,0
+1.5666666666666667,50.221111111111114,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Sat Aug 26 00:00:00 GMT 1346</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>1.5666666666666667,50.221111111111114,0
+1.904,50.257,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Mon Aug 28 00:00:00 GMT 1346</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>1.904,50.257,0
+1.8131,50.3675,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Sat Sep 02 00:00:00 GMT 1346</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>1.8131,50.3675,0
+1.6336,50.7639,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Mon Sep 04 00:00:00 GMT 1346</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>1.6336,50.7639,0
+1.856389,50.948056,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Sun Sep 10 00:00:00 GMT 1346</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>1.856389,50.948056,0
+-0.1275,51.507222,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Sat Mar 01 00:00:00 GMT 1348</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>-0.1275,51.507222,0
+-0.5376,53.2327,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Tue Mar 04 00:00:00 GMT 1348</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>-0.5376,53.2327,0
+-0.1275,51.507222,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Sat Nov 15 00:00:00 GMT 1348</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>-0.1275,51.507222,0
+1.856389,50.948056,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Thu Dec 04 00:00:00 GMT 1348</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>1.856389,50.948056,0
+2.3775,51.0383,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Wed Dec 31 00:00:00 GMT 1348</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>2.3775,51.0383,0
+1.856389,50.948056,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Sat Jan 03 00:00:00 GMT 1349</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>1.856389,50.948056,0
+-0.1275,51.507222,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Fri Aug 27 00:00:00 GMT 1350</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>-0.1275,51.507222,0
+1.338889,51.274722,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Sun Aug 29 00:00:00 GMT 1350</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>1.338889,51.274722,0
+0.816944444444444,50.87388888888889,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Wed Sep 01 00:00:00 GMT 1350</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>0.816944444444444,50.87388888888889,0
+-0.1275,51.507222,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Wed Oct 28 00:00:00 GMT 1355</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>-0.1275,51.507222,0
+1.338889,51.274722,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Mon Nov 02 00:00:00 GMT 1355</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>1.338889,51.274722,0
+1.856389,50.948056,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Sun Nov 15 00:00:00 GMT 1355</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>1.856389,50.948056,0
+-0.1275,51.507222,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Thu Oct 31 00:00:00 GMT 1359</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>-0.1275,51.507222,0
+1.856389,50.948056,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Sun Dec 01 00:00:00 GMT 1359</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>1.856389,50.948056,0
+4.0347,49.2628,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Wed Jan 15 00:00:00 GMT 1360</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>4.0347,49.2628,0
+4.368896,47.070122,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Wed Apr 01 00:00:00 GMT 1360</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>4.368896,47.070122,0
+2.3508,48.8567,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Wed Apr 08 00:00:00 GMT 1360</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>2.3508,48.8567,0
+1.4842,48.4558,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+</description>
+<TimeStamp><when>Fri Jan 01 00:00:00 GMT 1361</when></TimeStamp>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>1.4842,48.4558,0
+-0.1275,51.507222,0
+</coordinates>
+</LineString>
+<ExtendedData>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sun Feb 01 00:00:00 GMT 1327</begin><end>Thu Jul 16 00:00:00 GMT 1338</end></TimeSpan>
+<Point>
+<coordinates>-0.1275,51.507222</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>01 February 1327-16 July 1338</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>London</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Thu Jul 16 00:00:00 GMT 1338</begin><end>Wed Jul 22 00:00:00 GMT 1338</end></TimeSpan>
+<Point>
+<coordinates>1.155556,52.059444</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>16-22 July 1338</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Ipswich</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Wed Jul 22 00:00:00 GMT 1338</begin><end>Sat Aug 15 00:00:00 GMT 1338</end></TimeSpan>
+<Point>
+<coordinates>4.4,51.216667</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>22 July-15 August 1338</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Antwerp</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sat Aug 15 00:00:00 GMT 1338</begin><end>Sun Aug 30 00:00:00 GMT 1338</end></TimeSpan>
+<Point>
+<coordinates>4.466667,51.016667</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>15-30 August 1338</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Mechelen</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sun Aug 30 00:00:00 GMT 1338</begin><end>Sat Sep 05 00:00:00 GMT 1338</end></TimeSpan>
+<Point>
+<coordinates>7.611667,50.395556</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>30 August-05 September 1338</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Niederwerth</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sat Sep 05 00:00:00 GMT 1338</begin><end>Fri Sep 18 00:00:00 GMT 1338</end></TimeSpan>
+<Point>
+<coordinates>7.597778,50.359722</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>05-18 September 1338</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Coblenz</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Fri Sep 18 00:00:00 GMT 1338</begin><end>Mon Oct 12 00:00:00 GMT 1338</end></TimeSpan>
+<Point>
+<coordinates>4.4,51.216667</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>18 September-12 October 1338</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Antwerp</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Mon Oct 12 00:00:00 GMT 1338</begin><end>Mon Oct 26 00:00:00 GMT 1338</end></TimeSpan>
+<Point>
+<coordinates>5.166667,50.933333</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>12-26 October 1338</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Herk</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Mon Oct 26 00:00:00 GMT 1338</begin><end>Sun Jun 20 00:00:00 GMT 1339</end></TimeSpan>
+<Point>
+<coordinates>4.466667,51.016667</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>26 October 1338-20 June 1339</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Mechelen</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sun Jun 20 00:00:00 GMT 1339</begin><end>Fri Aug 20 00:00:00 GMT 1339</end></TimeSpan>
+<Point>
+<coordinates>4.416667,50.933333</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>20 June-20 August 1339</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Vilvoorde</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Fri Aug 20 00:00:00 GMT 1339</begin><end>Mon Sep 13 00:00:00 GMT 1339</end></TimeSpan>
+<Point>
+<coordinates>4.35,50.85</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>20 August-13 September 1339</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Brussels</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Mon Sep 13 00:00:00 GMT 1339</begin><end>Sat Sep 18 00:00:00 GMT 1339</end></TimeSpan>
+<Point>
+<coordinates>3.95,50.45</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>13-18 September 1339</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Mons</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sat Sep 18 00:00:00 GMT 1339</begin><end>Mon Sep 20 00:00:00 GMT 1339</end></TimeSpan>
+<Point>
+<coordinates>3.5233,50.3581</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>18-20 September 1339</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Valenciennes</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Mon Sep 20 00:00:00 GMT 1339</begin><end>Sun Oct 10 00:00:00 GMT 1339</end></TimeSpan>
+<Point>
+<coordinates>3.2356,50.1767</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>20 September-10 October 1339</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Cambrai</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sun Oct 10 00:00:00 GMT 1339</begin><end>Thu Oct 14 00:00:00 GMT 1339</end></TimeSpan>
+<Point>
+<coordinates>3.1964,50.0375</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>10-14 October 1339</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Honnecourt</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Thu Oct 14 00:00:00 GMT 1339</begin><end>Thu Oct 21 00:00:00 GMT 1339</end></TimeSpan>
+<Point>
+<coordinates>2.935,49.9293</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>14-21 October 1339</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>East of Perronne</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Thu Oct 21 00:00:00 GMT 1339</begin><end>Thu Oct 28 00:00:00 GMT 1339</end></TimeSpan>
+<Point>
+<coordinates>3.9172,49.9781</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>21-28 October 1339</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>la Capelle</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Thu Oct 28 00:00:00 GMT 1339</begin><end>Fri Nov 12 00:00:00 GMT 1339</end></TimeSpan>
+<Point>
+<coordinates>4.35,50.85</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>28 October-12 November 1339</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Brussels</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Fri Nov 12 00:00:00 GMT 1339</begin><end>Sat Jan 22 00:00:00 GMT 1340</end></TimeSpan>
+<Point>
+<coordinates>4.4,51.216667</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>12 November 1339-22 January 1340</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Antwerp</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sat Jan 22 00:00:00 GMT 1340</begin><end>Mon Feb 21 00:00:00 GMT 1340</end></TimeSpan>
+<Point>
+<coordinates>3.733333,51.05</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>22 January-21 February 1340</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Ghent</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Mon Feb 21 00:00:00 GMT 1340</begin><end>Tue Feb 22 00:00:00 GMT 1340</end></TimeSpan>
+<Point>
+<coordinates>3.5,51.35</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>21-22 February 1340</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Sluys</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Tue Feb 22 00:00:00 GMT 1340</begin><end>Fri Feb 25 00:00:00 GMT 1340</end></TimeSpan>
+<Point>
+<coordinates>1.2625,51.9355</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>22-25 February 1340</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Harwich</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Fri Feb 25 00:00:00 GMT 1340</begin><end>Sun Jun 04 00:00:00 GMT 1340</end></TimeSpan>
+<Point>
+<coordinates>-0.1275,51.507222</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>25 February-04 June 1340</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>London</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sun Jun 04 00:00:00 GMT 1340</begin><end>Thu Jun 22 00:00:00 GMT 1340</end></TimeSpan>
+<Point>
+<coordinates>1.155556,52.059444</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>04-22 June 1340</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Ipswich</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Thu Jun 22 00:00:00 GMT 1340</begin><end>Sun Jun 25 00:00:00 GMT 1340</end></TimeSpan>
+<Point>
+<coordinates>1.2625,51.9355</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>22-25 June 1340</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Harwich</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sun Jun 25 00:00:00 GMT 1340</begin><end>Sat Jul 08 00:00:00 GMT 1340</end></TimeSpan>
+<Point>
+<coordinates>3.233333,51.216667</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>25 June-08 July 1340</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Bruges</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sat Jul 08 00:00:00 GMT 1340</begin><end>Tue Jul 18 00:00:00 GMT 1340</end></TimeSpan>
+<Point>
+<coordinates>3.733333,51.05</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>08-18 July 1340</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Ghent</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Tue Jul 18 00:00:00 GMT 1340</begin><end>Mon Jul 31 00:00:00 GMT 1340</end></TimeSpan>
+<Point>
+<coordinates>3.337584,50.651093</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>18-31 July 1340</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Near Tournai</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Mon Jul 31 00:00:00 GMT 1340</begin><end>Thu Sep 28 00:00:00 GMT 1340</end></TimeSpan>
+<Point>
+<coordinates>3.383333,50.6</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>31 July-28 September 1340</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Tournai</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Thu Sep 28 00:00:00 GMT 1340</begin><end>Tue Nov 28 00:00:00 GMT 1340</end></TimeSpan>
+<Point>
+<coordinates>3.733333,51.05</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>28 September-28 November 1340</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Ghent</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Tue Nov 28 00:00:00 GMT 1340</begin><end>Thu Nov 30 00:00:00 GMT 1340</end></TimeSpan>
+<Point>
+<coordinates>3.5,51.35</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>28-30 November 1340</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Sluys</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Thu Nov 30 00:00:00 GMT 1340</begin><end>Fri Oct 04 00:00:00 GMT 1342</end></TimeSpan>
+<Point>
+<coordinates>-0.1275,51.507222</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>30 November 1340-04 October 1342</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>London</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Fri Oct 04 00:00:00 GMT 1342</begin><end>Sat Oct 26 00:00:00 GMT 1342</end></TimeSpan>
+<Point>
+<coordinates>1.338889,51.274722</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>04-26 October 1342</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Sandwich</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sat Oct 26 00:00:00 GMT 1342</begin><end>Fri Nov 22 00:00:00 GMT 1342</end></TimeSpan>
+<Point>
+<coordinates>-3,48</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>26 October-22 November 1342</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Brittany</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Fri Nov 22 00:00:00 GMT 1342</begin><end>Sun Jun 01 00:00:00 GMT 1343</end></TimeSpan>
+<Point>
+<coordinates>-2.7603,47.6559</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>22 November 1342-01 June 1343</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Vannes</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sun Jun 01 00:00:00 GMT 1343</begin><end>Tue Jul 05 00:00:00 GMT 1345</end></TimeSpan>
+<Point>
+<coordinates>-0.1275,51.507222</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>01 June 1343-05 July 1345</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>London</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Tue Jul 05 00:00:00 GMT 1345</begin><end>Tue Jul 26 00:00:00 GMT 1345</end></TimeSpan>
+<Point>
+<coordinates>3.5,51.35</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>05-26 July 1345</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Sluys</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Tue Jul 26 00:00:00 GMT 1345</begin><end>Wed Jul 05 00:00:00 GMT 1346</end></TimeSpan>
+<Point>
+<coordinates>-0.1275,51.507222</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>26 July 1345-05 July 1346</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>London</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Wed Jul 05 00:00:00 GMT 1346</begin><end>Wed Jul 12 00:00:00 GMT 1346</end></TimeSpan>
+<Point>
+<coordinates>-1.396991,50.901418</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>05-12 July 1346</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Southampton</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Wed Jul 12 00:00:00 GMT 1346</begin><end>Tue Jul 18 00:00:00 GMT 1346</end></TimeSpan>
+<Point>
+<coordinates>-1.2661,49.5886</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>12-18 July 1346</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Saint Vaast le Hougue</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Tue Jul 18 00:00:00 GMT 1346</begin><end>Thu Jul 20 00:00:00 GMT 1346</end></TimeSpan>
+<Point>
+<coordinates>-1.4667,49.5167</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>18-20 July 1346</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Valognes</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Thu Jul 20 00:00:00 GMT 1346</begin><end>Sat Jul 22 00:00:00 GMT 1346</end></TimeSpan>
+<Point>
+<coordinates>-1.2477,49.3032</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>20-22 July 1346</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Carentan</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sat Jul 22 00:00:00 GMT 1346</begin><end>Tue Jul 25 00:00:00 GMT 1346</end></TimeSpan>
+<Point>
+<coordinates>-1.0903,49.1153</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>22-25 July 1346</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Saint Lo</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Tue Jul 25 00:00:00 GMT 1346</begin><end>Wed Aug 02 00:00:00 GMT 1346</end></TimeSpan>
+<Point>
+<coordinates>-0.3694,49.1831</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>25 July-02 August 1346</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Caen</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Wed Aug 02 00:00:00 GMT 1346</begin><end>Wed Aug 09 00:00:00 GMT 1346</end></TimeSpan>
+<Point>
+<coordinates>0.2267,49.1464</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>02-09 August 1346</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Lisieux</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Wed Aug 09 00:00:00 GMT 1346</begin><end>Sun Aug 13 00:00:00 GMT 1346</end></TimeSpan>
+<Point>
+<coordinates>1.4858,49.0925</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>09-13 August 1346</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Vernon</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sun Aug 13 00:00:00 GMT 1346</begin><end>Mon Aug 21 00:00:00 GMT 1346</end></TimeSpan>
+<Point>
+<coordinates>2.0456,48.9294</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>13-21 August 1346</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Poissy</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Mon Aug 21 00:00:00 GMT 1346</begin><end>Thu Aug 24 00:00:00 GMT 1346</end></TimeSpan>
+<Point>
+<coordinates>1.9442,49.9658</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>21-24 August 1346</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Airaines</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Thu Aug 24 00:00:00 GMT 1346</begin><end>Sat Aug 26 00:00:00 GMT 1346</end></TimeSpan>
+<Point>
+<coordinates>1.5666666666666667,50.221111111111114</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>24-26 August 1346</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Blanchetaque</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sat Aug 26 00:00:00 GMT 1346</begin><end>Mon Aug 28 00:00:00 GMT 1346</end></TimeSpan>
+<Point>
+<coordinates>1.904,50.257</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>26-28 August 1346</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Battle of Crecy</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Mon Aug 28 00:00:00 GMT 1346</begin><end>Sat Sep 02 00:00:00 GMT 1346</end></TimeSpan>
+<Point>
+<coordinates>1.8131,50.3675</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>28 August-02 September 1346</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Maintenay</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sat Sep 02 00:00:00 GMT 1346</begin><end>Mon Sep 04 00:00:00 GMT 1346</end></TimeSpan>
+<Point>
+<coordinates>1.6336,50.7639</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>02-04 September 1346</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Wimille</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Mon Sep 04 00:00:00 GMT 1346</begin><end>Sun Sep 10 00:00:00 GMT 1346</end></TimeSpan>
+<Point>
+<coordinates>1.856389,50.948056</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>04-10 September 1346</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Calais</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sun Sep 10 00:00:00 GMT 1346</begin><end>Sat Mar 01 00:00:00 GMT 1348</end></TimeSpan>
+<Point>
+<coordinates>-0.1275,51.507222</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>10 September 1346-01 March 1348</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>London</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sat Mar 01 00:00:00 GMT 1348</begin><end>Tue Mar 04 00:00:00 GMT 1348</end></TimeSpan>
+<Point>
+<coordinates>-0.5376,53.2327</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>01-04 March 1348</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Lincoln</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Tue Mar 04 00:00:00 GMT 1348</begin><end>Sat Nov 15 00:00:00 GMT 1348</end></TimeSpan>
+<Point>
+<coordinates>-0.1275,51.507222</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>04 March-15 November 1348</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>London</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sat Nov 15 00:00:00 GMT 1348</begin><end>Thu Dec 04 00:00:00 GMT 1348</end></TimeSpan>
+<Point>
+<coordinates>1.856389,50.948056</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>15 November-04 December 1348</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Calais</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Thu Dec 04 00:00:00 GMT 1348</begin><end>Wed Dec 31 00:00:00 GMT 1348</end></TimeSpan>
+<Point>
+<coordinates>2.3775,51.0383</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>04-31 December 1348</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Dunkirk</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Wed Dec 31 00:00:00 GMT 1348</begin><end>Sat Jan 03 00:00:00 GMT 1349</end></TimeSpan>
+<Point>
+<coordinates>1.856389,50.948056</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>31 December 1348-03 January 1349</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Calais</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sat Jan 03 00:00:00 GMT 1349</begin><end>Fri Aug 27 00:00:00 GMT 1350</end></TimeSpan>
+<Point>
+<coordinates>-0.1275,51.507222</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>03 January 1349-27 August 1350</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>London</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Fri Aug 27 00:00:00 GMT 1350</begin><end>Sun Aug 29 00:00:00 GMT 1350</end></TimeSpan>
+<Point>
+<coordinates>1.338889,51.274722</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>27-29 August 1350</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Sandwich</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sun Aug 29 00:00:00 GMT 1350</begin><end>Wed Sep 01 00:00:00 GMT 1350</end></TimeSpan>
+<Point>
+<coordinates>0.816944444444444,50.87388888888889</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>29 August-01 September 1350</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Battle of Winchelsea</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Wed Sep 01 00:00:00 GMT 1350</begin><end>Wed Oct 28 00:00:00 GMT 1355</end></TimeSpan>
+<Point>
+<coordinates>-0.1275,51.507222</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>01 September 1350-28 October 1355</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>London</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Wed Oct 28 00:00:00 GMT 1355</begin><end>Mon Nov 02 00:00:00 GMT 1355</end></TimeSpan>
+<Point>
+<coordinates>1.338889,51.274722</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>28 October-02 November 1355</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Sandwich</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Mon Nov 02 00:00:00 GMT 1355</begin><end>Sun Nov 15 00:00:00 GMT 1355</end></TimeSpan>
+<Point>
+<coordinates>1.856389,50.948056</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>02-15 November 1355</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Calais</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sun Nov 15 00:00:00 GMT 1355</begin><end>Thu Oct 31 00:00:00 GMT 1359</end></TimeSpan>
+<Point>
+<coordinates>-0.1275,51.507222</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>15 November 1355-31 October 1359</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>London</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Thu Oct 31 00:00:00 GMT 1359</begin><end>Sun Dec 01 00:00:00 GMT 1359</end></TimeSpan>
+<Point>
+<coordinates>1.856389,50.948056</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>31 October-01 December 1359</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Calais</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sun Dec 01 00:00:00 GMT 1359</begin><end>Wed Jan 15 00:00:00 GMT 1360</end></TimeSpan>
+<Point>
+<coordinates>4.0347,49.2628</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>01 December 1359-15 January 1360</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Reims</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Wed Jan 15 00:00:00 GMT 1360</begin><end>Wed Apr 01 00:00:00 GMT 1360</end></TimeSpan>
+<Point>
+<coordinates>4.368896,47.070122</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>15 January-01 April 1360</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Burgundy</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Wed Apr 01 00:00:00 GMT 1360</begin><end>Wed Apr 08 00:00:00 GMT 1360</end></TimeSpan>
+<Point>
+<coordinates>2.3508,48.8567</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>01-08 April 1360</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Paris</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Wed Apr 08 00:00:00 GMT 1360</begin><end>Fri Jan 01 00:00:00 GMT 1361</end></TimeSpan>
+<Point>
+<coordinates>1.4842,48.4558</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>08 April 1360-01 January 1361</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>Chartres</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Fri Jan 01 00:00:00 GMT 1361</begin><end>Sun Jun 21 00:00:00 GMT 1377</end></TimeSpan>
+<Point>
+<coordinates>-0.1275,51.507222</coordinates>
+</Point>
+<ExtendedData>
+<Data name="DateString">
+<value>01 January 1361-21 June 1377</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="LocationName">
+<value>London</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+</Document>
+</kml>

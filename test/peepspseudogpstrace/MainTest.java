@@ -1,7 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package peepspseudogpstrace;
 
 import org.junit.After;
@@ -43,10 +40,10 @@ public class MainTest {
         String dataFileName = "rubens.psv";
         String outputFileNamePrefix = "rubens";
 
-        PeepsPseudoGPSTrace theMain = new PeepsPseudoGPSTrace(dataFileName);
+        PeepsPseudoGPSTrace theMain = new PeepsPseudoGPSTrace();
         
         assert (theMain.noOfPeeps() == 1);
         
-        theMain.outputTimelineKML(outputFileNamePrefix);
-        theMain.outputMapKML(outputFileNamePrefix);}
+        theMain.outputTimelineKML();
+        theMain.outputMapKML();}
 }

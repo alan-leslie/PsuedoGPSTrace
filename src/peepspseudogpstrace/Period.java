@@ -245,7 +245,7 @@ public class Period {
 //        theDateFormat = new SimpleDateFormat("dd MMMM, yyyy");
 //        theDateFormat.setTimeZone(TimeZone.getTimeZone("GMT"));
 //        theFormatters.add(theDateFormat);
-        theDateFormat = new SimpleDateFormat("MM/dd/yyyy");
+        theDateFormat = new SimpleDateFormat("dd/MM/yyyy");
         theDateFormat.setTimeZone(TimeZone.getTimeZone("GMT"));
         theFormatters.add(theDateFormat);
         theDateFormat = new SimpleDateFormat("MMMM, yyyy");

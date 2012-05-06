@@ -21,22 +21,69 @@ public class PeepsPseudoGPSTrace {
 
     List<PersonPseudoGPSTrace> thePeeps = new ArrayList<PersonPseudoGPSTrace>();
     Logger theLogger = null;
+    String theDataFileName = null;
+    String outputFileNamePrefix = null;
+    boolean isKing = false;
 
-    PeepsPseudoGPSTrace(String dataFileName) {
+    PeepsPseudoGPSTrace() {
         theLogger = makeLogger();
 
+        Properties properties = new Properties();
+        FileInputStream is = null;
+
         try {
-            List<String[]> theData = CSVFile.getFileData(dataFileName, "\\|");
+            is = new FileInputStream("GPSTrace.properties");
+            properties.load(is);
+        } catch (IOException e) {
+            // ...
+        } finally {
+            if (null != is) {
+                try {
+                    is.close();
+                } catch (IOException e) {
+                    /* .... */
+                }
+            }
+        }
+
+        theDataFileName = properties.getProperty("dataFileName", "rubens.psv");
+        outputFileNamePrefix = properties.getProperty("outputFileNamePrefix", "rubens");
+        String dataType = properties.getProperty("dataType", "false");
+        if (dataType.equalsIgnoreCase("true")) {
+            isKing = true;
+        }
+
+        try {
+            List<String[]> theData = CSVFile.getFileData(theDataFileName, "\\|");
+
+            String[] dataAsOneArray = new String[0];
+            
             for (String[] theLine : theData) {
-                PersonPseudoGPSTrace theTrace = new PersonPseudoGPSTrace(theLine);
+                dataAsOneArray = concatStringArray(dataAsOneArray, theLine);
+            }
+
+            PersonPseudoGPSTrace theTrace;
+            try {
+                theTrace = new PersonPseudoGPSTrace(dataAsOneArray, isKing);
                 thePeeps.add(theTrace);
+            } catch (IncorrectPeriodException ex) {
+                String periodString = ex.getStartDate() + "-" + ex.getEndDate();
+                theLogger.log(Level.SEVERE, periodString);
             }
         } catch (IOException ex) {
             Logger.getLogger(PeepsPseudoGPSTrace.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
 
-    public void outputTimelineKML(String outputFileNamePrefix) {
+    private String[] concatStringArray(String[] A, String[] B) {
+        String[] C = new String[A.length + B.length];
+        System.arraycopy(A, 0, C, 0, A.length);
+        System.arraycopy(B, 0, C, A.length, B.length);
+
+        return C;
+    }
+
+    public void outputTimelineKML() {
         String targetPath = outputFileNamePrefix + "_timeline.kml";
         FileOutputStream fso = null;
 
@@ -70,7 +117,7 @@ public class PeepsPseudoGPSTrace {
         }
     }
 
-    public void outputMapKML(String outputFileNamePrefix) {
+    public void outputMapKML() {
         String targetPath = outputFileNamePrefix + "_map.kml";
         FileOutputStream fso = null;
 
@@ -129,7 +176,7 @@ public class PeepsPseudoGPSTrace {
             return null;
         }
     }
-        
+
     int noOfPeeps() {
         return thePeeps.size();
     }
@@ -138,29 +185,9 @@ public class PeepsPseudoGPSTrace {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Properties properties = new Properties();
-        FileInputStream is = null;
 
-        try {
-            is = new FileInputStream("GPSTrace.properties");
-            properties.load(is);
-        } catch (IOException e) {
-            // ...
-        } finally {
-            if (null != is) {
-                try {
-                    is.close();
-                } catch (IOException e) {
-                    /* .... */
-                }
-            }
-        }
-
-        String dataFileName = properties.getProperty("dataFileName", "rubens.psv");
-        String outputFileNamePrefix = properties.getProperty("outputFileNamePrefix", "rubens");
-
-        PeepsPseudoGPSTrace theMain = new PeepsPseudoGPSTrace(dataFileName);
-        theMain.outputTimelineKML(outputFileNamePrefix);
-        theMain.outputMapKML(outputFileNamePrefix);
+        PeepsPseudoGPSTrace theMain = new PeepsPseudoGPSTrace();
+        theMain.outputTimelineKML();
+        theMain.outputMapKML();
     }
 }

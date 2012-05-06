@@ -1,13 +1,11 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package peepspseudogpstrace;
 
 import java.io.PrintStream;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -59,7 +57,7 @@ public class PersonPseudoGPSTrace {
         return theURL;
     }
 
-    PersonPseudoGPSTrace(String[] theData) {
+    PersonPseudoGPSTrace(String[] theData, boolean isKing) throws IncorrectPeriodException {
         theName = theData[0];
         try {
             theURL = new URL(theData[1]);
@@ -71,11 +69,19 @@ public class PersonPseudoGPSTrace {
 
         for (int i = 0; i < noOfTransitions; ++i) {
             int startIndex = (i * 3) + 2;
-            String startDate = theData[startIndex];
+            String startDateString = theData[startIndex];
             String locationName = theData[startIndex + 1];
             String coords = theData[startIndex + 2];
-            String endDate = theData[startIndex + 3];
-            String periodString = startDate + " to " + endDate;
+            String endDateString = theData[startIndex + 3];
+            
+            Date theStartDate = Period.getDate(startDateString);
+            Date theEndDate = Period.getDate(endDateString);
+            
+            if(theStartDate.after(theEndDate)){
+                throw new IncorrectPeriodException(startDateString, endDateString);          
+            }
+            
+            String periodString = startDateString + " to " + endDateString;
             String[] splitCoords = coords.split(",");
 
             Period theLifetimePeriod = Period.getRealPeriod(periodString);

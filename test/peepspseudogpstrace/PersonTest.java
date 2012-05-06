@@ -1,7 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package peepspseudogpstrace;
 
 import java.io.IOException;
@@ -50,7 +47,7 @@ public class PersonTest {
 
             assert (theData.size() == 1);
 
-            PersonPseudoGPSTrace rubens = new PersonPseudoGPSTrace(theData.get(0));
+            PersonPseudoGPSTrace rubens = new PersonPseudoGPSTrace(theData.get(0), false);
             String theName = rubens.getTheName();
             URL theURL = rubens.getTheURL();
             List<PlacePeriod> theLifetime = rubens.getTheLifetime();
@@ -101,7 +98,7 @@ public class PersonTest {
 
             assert (theData.size() == 1);
 
-            PersonPseudoGPSTrace velasquez = new PersonPseudoGPSTrace(theData.get(0));
+            PersonPseudoGPSTrace velasquez = new PersonPseudoGPSTrace(theData.get(0), false);
             String theName = velasquez.getTheName();
             URL theURL = velasquez.getTheURL();
             List<PlacePeriod> theLifetime = velasquez.getTheLifetime();
@@ -152,7 +149,7 @@ public class PersonTest {
 
             assert (theData.size() == 1);
 
-            PersonPseudoGPSTrace ribalta = new PersonPseudoGPSTrace(theData.get(0));
+            PersonPseudoGPSTrace ribalta = new PersonPseudoGPSTrace(theData.get(0), false);
             String theName = ribalta.getTheName();
             URL theURL = ribalta.getTheURL();
             List<PlacePeriod> theLifetime = ribalta.getTheLifetime();

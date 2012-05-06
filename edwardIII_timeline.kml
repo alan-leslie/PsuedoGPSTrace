@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<Placemark>
+<name>
+King Edward III
+</name>
+<description>
+&lt;p&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Edward_III_of_England"&gt; more info&gt;&gt;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</description>
+<TimeSpan><begin>Sun Feb 01 00:00:00 GMT 1327</begin><end>Sun Jun 21 00:00:00 GMT 1377</end></TimeSpan>
+<Point>
+<coordinates>-0.1275,51.507222</coordinates>
+</Point>
+<ExtendedData><Data name="DateString">
+<value>01 February 1327-21 June 1377</value>
+</Data>
+<Data name="Url">
+<value>http://en.wikipedia.org/wiki/Edward_III_of_England</value>
+</Data>
+<Data name="theme"><value>KingEdwardIII</value></Data>
+</ExtendedData>
+</Placemark>
+</Document>
+</kml>
