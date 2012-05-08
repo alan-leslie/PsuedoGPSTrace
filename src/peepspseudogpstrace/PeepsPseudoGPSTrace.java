@@ -56,19 +56,29 @@ public class PeepsPseudoGPSTrace {
         try {
             List<String[]> theData = CSVFile.getFileData(theDataFileName, "\\|");
 
-            String[] dataAsOneArray = new String[0];
-            
-            for (String[] theLine : theData) {
-                dataAsOneArray = concatStringArray(dataAsOneArray, theLine);
-            }
+            int i = 0;           
+            while(i < theData.size()){
+                String[] dataAsOneArray = new String[0];
 
-            PersonPseudoGPSTrace theTrace;
-            try {
-                theTrace = new PersonPseudoGPSTrace(dataAsOneArray, isKing);
-                thePeeps.add(theTrace);
-            } catch (IncorrectPeriodException ex) {
-                String periodString = ex.getStartDate() + "-" + ex.getEndDate();
-                theLogger.log(Level.SEVERE, periodString);
+                for (; i < theData.size(); ++i) {
+                    String[] theLine = theData.get(i);
+                    
+                    dataAsOneArray = concatStringArray(dataAsOneArray, theLine);
+                    
+                    if(theLine.length < 2){
+                        ++i;
+                        break;                     
+                    } 
+                }
+
+                PersonPseudoGPSTrace theTrace;
+                try {
+                    theTrace = new PersonPseudoGPSTrace(dataAsOneArray, isKing);
+                    thePeeps.add(theTrace);
+                } catch (IncorrectPeriodException ex) {
+                    String periodString = ex.getStartDate() + "-" + ex.getEndDate();
+                    theLogger.log(Level.SEVERE, periodString);
+                }
             }
         } catch (IOException ex) {
             Logger.getLogger(PeepsPseudoGPSTrace.class.getName()).log(Level.SEVERE, null, ex);
